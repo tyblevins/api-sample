@@ -1,0 +1,5 @@
+flask
+schematics
+redis
+requests
+pytest
